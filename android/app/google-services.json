@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "575434168919",
+    "project_id": "flight-e81ba",
+    "storage_bucket": "flight-e81ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575434168919:android:cdbec7154818941aea6112",
+        "android_client_info": {
+          "package_name": "com.example.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575434168919-u6nt7itqoj32vviuljn91rngnd7atepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airplane",
+            "certificate_hash": "62494ef281588f32dafdbff2387471d4cac4b96a"
+          }
+        },
+        {
+          "client_id": "575434168919-c9fpj2vga59h7ukdajq1hs8f0vbpnruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-SvhasAyGW8CJtb4IN6WTanFGuvuXIZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575434168919-4obdqm7vvog48rd6eprod4q378kc06el.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575434168919-6975lh9eeb0ehr90bvflrvol4n5leaal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.beyond.beyondCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
